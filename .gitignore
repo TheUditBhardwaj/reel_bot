@@ -1,0 +1,45 @@
+# Environment
+.env
+
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data
+chroma_data/
+*.mp3
+*.m4a
+*.wav
+*.opus
+*.webm
+
+# Downloads
+/tmp/
+downloads/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cookies (sensitive)
+cookies.txt
+*.cookies
